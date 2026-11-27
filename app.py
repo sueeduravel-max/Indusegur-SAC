@@ -609,7 +609,7 @@ if seccion == "Carátula":
         "PIERINA NICOLLE GARAMENDI GALINDO",
         "CHRISTIAN PEREZ QUISPE",
     ]
-    DOCENTE = "TU PAPÁ YA SABES QUIÉN"
+    DOCENTE = "JORGE LUIS RODRIGUEZ PIO"
     FECHA = "28 noviembre del 2026"
     # -----------------------------
 
